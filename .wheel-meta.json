@@ -1,0 +1,22 @@
+{
+  "wheel_id": 553,
+  "structure": "umbrella",
+  "slug": "webdesignsydneyaustralia-103",
+  "project": "web-design-sydney-quotes-explained-1757c3b7d6889119b9bd4cd091d8",
+  "parent_t1_ref": "webdesignsydneyaustralia-151",
+  "node_role": "feeder",
+  "money_target": "webdesignsydneyaustralia.com.au",
+  "primary_kw": "web design sydney quotes explained",
+  "intended_url": "https://sites-e470-2.web.app/web-design-sydney-quotes-explained-1757c3b7d6889119b9bd4cd091d8/",
+  "tier": "T2",
+  "writeback_nonce": "02b4f8e17ffe3a65",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/web-design-sydney-before-you-start-00af307d58ecb1c71dfb2724500d/",
+      "anchor": "Web Design Sydney Before You Start: Before You Start",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
